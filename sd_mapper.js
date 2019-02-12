@@ -4,8 +4,7 @@
    Case Problem 1
 
    Planisphere Script
-   Author: 
-   Date:   
+   Author: Nicholas Le
+   Date:  02/12/19 
 
 */
-
